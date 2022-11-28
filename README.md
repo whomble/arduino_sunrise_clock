@@ -1,5 +1,5 @@
 # arduino_sunrise_clock
-![arduino_sunrise_clock](img/Schematic.JPG)
+![arduino_sunrise_clock](img/Schematic)
 # titre
 ---
 # tropfort
