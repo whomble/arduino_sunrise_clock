@@ -44,10 +44,15 @@ I've choose to use a concentric infill patern for the top piece and a grid for t
 
 ![arduino_sunrise_clock](img/IMG_20221128_103148.jpg)
 ![arduino_sunrise_clock](img/schematic.JPG)
+
 # Assembly
 
-All the components should fit easly on the bottom piece, a little bit of hot glue is required to maintain everything in place
-![arduino_sunrise_clock](img/bottom assembly2.png)
+All the components should fit easly on the bottom piece, a little bit of hot glue is required to maintain everything in place.
+| Part | Quantity |
+| - | - |
+| ![arduino_sunrise_clock](img/bottomassembly2.png) | ![arduino_sunrise_clock](img/final.JPG) |
+
+
 
 ---
 # tropfort
