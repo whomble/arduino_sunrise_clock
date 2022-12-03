@@ -68,7 +68,7 @@ Since the arduino nano can't deliver much more than 500mA trought the 5V pin and
 All the components should fit easly on the bottom piece, a little bit of hot glue is required to maintain everything in place.
 
 
-<img src="img/bottomassembly2.png"  height="400"><img src="img/final.JPG" height="400">
+<img src="img/bottomassembly2.png"  width="505"><img src="img/final.JPG" width="400">
 
 The only tricky part is to place the pushbutton, just place it in the shell upside down and then place the assembly with all the electronics parts
 
