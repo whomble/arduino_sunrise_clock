@@ -65,9 +65,11 @@ Since the arduino nano can't deliver much more than 500mA trought the 5V pin and
 # Assembly
 
 All the components should fit easly on the bottom piece, a little bit of hot glue is required to maintain everything in place.
-| Part | Quantity |
-| - | - |
-| ![arduino_sunrise_clock](img/bottomassembly2.png) | ![arduino_sunrise_clock](img/final.JPG) |
+
+
+<img src="img/bottomassembly2.png"  height="400"><img src="img/final.JPG" height="400">
+
+The only tricky part is to place the pushbutton, just place it in the shell upside down and then place the assembly with all the electronics parts
 
 
 
