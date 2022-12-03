@@ -36,7 +36,7 @@ It can be replaced by an OLED screen or a smaller 7segment display
 
 # 3D printing
 
-The 3D files can be found [here] as stl and step if you want to adapt the design
+The 3D files can be found here [stl](3D/stl) and if you want to change my design the [step files](3D/step) are availlable.
 
 The files are printed in clear filament which isn't clear but can difuse light efficiently.
 Since any pieces are under constraint 2-3 wall are enougth but be carrefull to choose the right infil patern because it will be visible from the outside! 
