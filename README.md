@@ -74,9 +74,8 @@ The only tricky part is to place the pushbutton, just place it in the shell upsi
 
 
 ---
-# tropfort
-[read the wiki here](https://github.com/index-machines/index/wiki)
-```
-bl  blalala
-```
+# Code
+
+My arduino code is availlable [here](code/horloge.ino) its a mix of french and english and a lots of comments are missing so feel free to contact me if you don't understand something or if it doesn't work!
+
 
