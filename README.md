@@ -1,4 +1,8 @@
 # arduino_sunrise_clock
+
+<img src="img/PXL_20221203_140811165.jpg"  height="350"><img src="img/PXL_20221203_140832110.MP.jpg" height="350">
+<img src="img/PXL_20221203_140846596.MP.jpg" height="350"><img src="img/PXL_20221203_140905134.MP.jpg"  height="350">
+
 I made this project to mimic the comercial sunrise clock that you can buy online but cheaper (at least it was cheaper in 2018)
 
 This clock has two mains functions: 
@@ -57,10 +61,7 @@ Since the arduino nano can't deliver much more than 500mA trought the 5V pin and
 - The push button is connected to a random input pin
 - The USB-C breakout board is obviously connected to Vin and Ground and as mentionned before the led ring and the display
 
-![arduino_sunrise_clock](img/schematic.JPG)
-
-![arduino_sunrise_clock](img/IMG_20221128_103148.jpg)
-
+<img src="img/schematic.JPG" width="800">
 
 # Assembly
 
