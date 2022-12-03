@@ -78,4 +78,11 @@ The only tricky part is to place the pushbutton, just place it in the shell upsi
 
 My arduino code is availlable [here](code/horloge.ino) its a mix of french and english and a lots of comments are missing so feel free to contact me if you don't understand something or if it doesn't work!
 
+In theory you would have just two things to change:
+- The hex code send by your remote control, you would have to use the IRremote (read) exemple code to record each code (one per button) and then copy the values to my code
+- The display script if you are using an OLED or LCD screen instead of the 7 segments.
+
+
+
+
 
