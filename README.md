@@ -32,6 +32,7 @@ The others settings can be change with the remote control:
 | IR remote + reciever | 1 | 2€ |
 | Push button | 4 | 0.1€ |
 | Clear filament spool | 1 | 20€ |
+| Total | 1 | 20-50€ |
 
 Any RTC module would work but the DS3231 is the more compact and reliable (I've used the DS1307)
 When I built this clock the 0.78 inches (high not diagonal) 7 segments display cost something like 3-5€ but I couldn't find any now...
@@ -47,6 +48,7 @@ Since any pieces are under constraint 2-3 wall are enougth but be carrefull to c
 I've choose to use a concentric infill patern for the top piece and a grid for the perimeter but feel free to try something elese (gyroid is a good alternative).
 
 As always, I use 0.16 layer high with adaptative layers enable (0.12-0.2) and support arent needed for the screen holder only the 4 small pins need support from builplate like that:
+
 ![arduino_sunrise_clock](img/3dprintig.JPG)
 
 
