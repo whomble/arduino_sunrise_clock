@@ -1,7 +1,7 @@
 # arduino_sunrise_clock
 
-<img src="img/PXL_20221203_140811165.jpg"  width="450"><img src="img/PXL_20221203_140832110.MP.jpg" width="450">
-<img src="img/PXL_20221203_140846596.MP.jpg" width="450"><img src="img/PXL_20221203_140905134.MP.jpg"  width="450">
+<img src="img/PXL_20221203_140811165.jpg"  width="400"><img src="img/PXL_20221203_140832110.MP.jpg" width="400">
+<img src="img/PXL_20221203_140846596.MP.jpg" width="400"><img src="img/PXL_20221203_140905134.MP.jpg"  width="400">
 
 I made this project to mimic the comercial sunrise clock that you can buy online but cheaper (at least it was cheaper in 2018)
 
